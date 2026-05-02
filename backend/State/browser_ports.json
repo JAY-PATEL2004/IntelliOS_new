@@ -1,0 +1,227 @@
+{
+    "chrome": {
+        "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "profiles": [
+            {
+                "profile": "C:\\ChromeDebugProfile1",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-10-03T10:30:00",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9223",
+                        "launched_at": "2025-10-03T11:15:00",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9224",
+                        "launched_at": "2025-10-03T12:00:00",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "C:\\ChromeDebugProfile2",
+                "instances": [
+                    {
+                        "port": "9225",
+                        "launched_at": "2025-10-03T09:45:00",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9226",
+                        "launched_at": "2025-10-03T10:00:00",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Direct_runner\\profile_copies\\profile_copy_20251030_202844",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-10-30T20:28:44",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Direct_runner\\profile_copies\\profile_copy_20251030_203006",
+                "instances": [
+                    {
+                        "port": "9223",
+                        "launched_at": "2025-10-30T20:30:06",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Direct_runner\\profile_copies\\profile_copy_20251030_203505",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-10-30T20:35:05",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "C:\\Users\\jaypa\\AppData\\Local\\Google\\Chrome\\User Data\\Default",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-10-30T21:00:27",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-01T16:34:25",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-02T16:22:21",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-02T19:26:03",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-03T07:20:01+05:30",
+                        "status": "inactive"
+                    },
+                    {
+                        "port": "9223",
+                        "launched_at": "2025-11-03T07:25:10+05:30",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Direct_runner\\profile_copies\\profile_copy_20251030_210132",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-10-30T21:01:32",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "C:\\Users\\jaypa\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2",
+                "instances": [
+                    {
+                        "port": "9223",
+                        "launched_at": "2025-10-30T21:01:42",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Configure_browsers\\profile_copies\\profile_copy_20251101_144833",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-01T14:48:33",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Configure_browsers\\profile_copies\\profile_copy_20251103_115529",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-03T11:55:29+05:30",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Configure_browsers\\profile_copies\\profile_copy_20251103_133252",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-03T13:32:52+05:30",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Configure_browsers\\profile_copies\\profile_copy_20251103_134527",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-03T13:45:27+05:30",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Configure_browsers\\profile_copies\\profile_copy_20251103_134624",
+                "instances": [
+                    {
+                        "port": "9223",
+                        "launched_at": "2025-11-03T13:46:24+05:30",
+                        "status": "active"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Configure_browsers\\profile_copies\\profile_copy_20251104_195558",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-04T19:55:58+05:30",
+                        "status": "inactive"
+                    }
+                ]
+            },
+            {
+                "profile": "D:\\Major\\IntelliOS\\Configure_browsers\\profile_copies\\profile_copy_20251106_133157",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-11-06T13:31:57+05:30",
+                        "status": "active"
+                    }
+                ]
+            }
+        ]
+    },
+    "msedge": {
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "profiles": [
+            {
+                "profile": "C:\\EdgeDebugProfile1",
+                "instances": [
+                    {
+                        "port": "9227",
+                        "launched_at": "2025-10-03T11:30:00",
+                        "status": "active"
+                    }
+                ]
+            },
+            {
+                "profile": "Edge",
+                "instances": [
+                    {
+                        "port": "9228",
+                        "launched_at": "2025-10-03T13:15:00",
+                        "status": "active"
+                    },
+                    {
+                        "port": "9229",
+                        "launched_at": "2025-10-03T14:00:00",
+                        "status": "active"
+                    }
+                ]
+            }
+        ]
+    }
+}

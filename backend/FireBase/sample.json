@@ -1,0 +1,8 @@
+{
+    "username": "Jatan",
+    "json": {
+        "age": 22,
+        "city": "Indore",
+        "languages": ["Python", "C++"]
+    }
+}

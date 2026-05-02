@@ -1,0 +1,83 @@
+{
+    "saved_at":  "2025-08-26T12:32:41.9607091+05:30",
+    "user":  "jaypa",
+    "browsers":  [
+                     {
+                         "browser":  "chrome",
+                         "exe": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                         "windows":  [
+                                         {
+                                             "profile": "C:\\ChromeDebugProfile",
+                                             "debuggingPort":  9222,
+                                             "tabs":  [
+                                                          {
+                                                              "url":  "https://monkeytype.com/",
+                                                              "title":  "Monkeytype | A minimalistic, customizable typing test",
+                                                              "description": ""
+                                                          },
+                                                          {
+                                                              "url":  "https://www.google.com/search?q=hello&oq=hello&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzY4NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&sei=g1viaJn-GsaSseMPxL2yoQE",
+                                                              "title":  "hello - Google Search",
+                                                              "description": ""
+                                                          }
+                                                      ]
+                                         },
+                                         {
+                                             "profile": "C:\\ChromeDebugProfile",
+                                             "debuggingPort":  9223,
+                                             "tabs":  [
+                                                          {
+                                                              "url":  "https://www.google.com/search?q=hello+jay\u0026oq=he\u0026gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAuGLEDGIAEMgYIAhBFGDkyCggDEAAYsQMYgAQyEAgEEC4YxwEYsQMY0QMYgAQyEAgFEC4YxwEYsQMY0QMYgAQyBwgGEC4YgAQyCggHEC4YsQMYgAQyCggIEAAYsQMYgAQyBwgJEAAYjwLSAQgzNDE0ajBqN6gCALACAA\u0026sourceid=chrome\u0026ie=UTF-8",
+                                                              "title":  "hello jay - Google Search",
+                                                              "description": ""
+                                                          }
+                                                      ]
+                                         },
+                                         {
+                                             "profile": "C:\\ChromeDebugProfile",
+                                             "debuggingPort":  9224,
+                                             "tabs":  [
+                                                          {
+                                                              "url":  "https://fast.com/",
+                                                              "title":  "Internet Speed Test | Fast.com",
+                                                              "description": ""
+                                                          }
+                                                      ]
+                                         }
+                                     ]
+                     }
+                 ],
+    "apps": [   {
+                    "name":  "EXCEL.EXE",
+                    "pid":  null,
+                    "exe":  "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+                    "cmdline":  null,
+                    "items":  [
+                               "C:\\Users\\jaypa\\Edunet_AICTE_Internship\\cleaned_dataset.csv",
+                               "C:\\Users\\jaypa\\Downloads\\data_cleaned_asian_countries.csv"
+                    ],
+                    "windowInfo": {
+                        "title": "Microsoft Excel",
+                        "position": {
+                            "x": 100,
+                            "y": 200
+                        },
+                        "size": {
+                            "width": 1024,
+                            "height": 768
+                        },
+                        "state": "normal"
+                    }
+                },
+                {
+                    "name":  "Notepad.Exe",
+                    "pid":  null,
+                    "exe":  "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2507.26.0_x64__8wekyb3d8bbwe\\Notepad\\Notepad.exe",
+                    "cmdline":  null,
+                    "items":  [
+                               "C:\\Users\\jaypa\\OneDrive\\Desktop\\addverb.txt"
+                    ],
+                    "windowInfo": null
+                }
+            ]
+}

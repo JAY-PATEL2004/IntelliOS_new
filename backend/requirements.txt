@@ -1,0 +1,21 @@
+# Core dependencies
+pywin32>=303      # For Windows Event Log access
+groq>=0.4.0       # Groq API client
+pydantic>=2.0.0   # Data validation
+instructor>=0.3.0 # LLM response structuring
+python-dotenv>=1.0.0 # Environment variable management
+
+# Vector database
+chromadb>=0.4.18
+sentence-transformers>=2.2.2
+
+# Server
+fastapi>=0.104.0
+uvicorn>=0.23.0
+pydantic-settings>=2.0.0
+
+# Utils
+numpy>=1.24.0
+httpx>=0.24.1
+
+onnxruntime

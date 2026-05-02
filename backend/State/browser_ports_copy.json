@@ -1,0 +1,72 @@
+{
+    "chrome": {
+        "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "profiles": [
+            {
+                "profile": "C:\\ChromeDebugProfile1",
+                "instances": [
+                    {
+                        "port": "9222",
+                        "launched_at": "2025-10-03T10:30:00",
+                        "status": "active"
+                    },
+                    {
+                        "port": "9223",
+                        "launched_at": "2025-10-03T11:15:00",
+                        "status": "active"
+                    },
+                    {
+                        "port": "9224",
+                        "launched_at": "2025-10-03T12:00:00",
+                        "status": "active"
+                    }
+                ]
+            },
+            {
+                "profile": "C:\\ChromeDebugProfile2",
+                "instances": [
+                    {
+                        "port": "9225",
+                        "launched_at": "2025-10-03T09:45:00",
+                        "status": "active"
+                    },
+                    {
+                        "port": "9226",
+                        "launched_at": "2025-10-03T10:00:00",
+                        "status": "active"
+                    }
+                ]
+            }
+        ]
+    },
+    "msedge": {
+        "exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "profiles": [
+            {
+                "profile": "C:\\EdgeDebugProfile1",
+                "instances": [
+                    {
+                        "port": "9227",
+                        "launched_at": "2025-10-03T11:30:00",
+                        "status": "active"
+                    }
+                ]
+            },
+            {
+                "profile": "Edge",
+                "instances": [
+                    {
+                        "port": "9228",
+                        "launched_at": "2025-10-03T13:15:00",
+                        "status": "active"
+                    },
+                    {
+                        "port": "9229",
+                        "launched_at": "2025-10-03T14:00:00",
+                        "status": "active"
+                    }
+                ]
+            }
+        ]
+    }
+}

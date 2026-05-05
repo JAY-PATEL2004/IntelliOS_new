@@ -732,13 +732,13 @@ async def create_update_workspace(request: SuggestionsRequest):
         }
 
         def cosine_similarity(a, b):
-            return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
+            return float(np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b)))
 
         scores = {}
 
         for topic, emb in topic_embeddings.items():
             sim = cosine_similarity(context_embedding, emb)
-            scores[topic] = max(sim, 0)  # remove negative values
+            scores[topic] = float(max(sim, 0))  # remove negative values
         
         scores = dict(sorted(scores.items(), key=lambda x: x[1], reverse=True)[:10])
 
@@ -751,7 +751,7 @@ async def create_update_workspace(request: SuggestionsRequest):
             
         return SuggestionsResponse(
             status="success",
-            topics=[{"topic": topic, "percentage": round((score / total) * 100, 2)} for topic, score in scores.items()]
+            topics=[{"topic": topic, "percentage": float(round((score / total) * 100, 2))} for topic, score in scores.items()]
         )
             
     except HTTPException as he:
